@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\OnitTask_4\OnitTask_4\bin\Debug\OnitTask_4.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\OnitTask_4\OnitTask_4\bin\Debug\OnitTask_4.exe
+c:\users\admin\documents\visual studio 2015\Projects\OnitTask_4\OnitTask_4\bin\Debug\OnitTask_4.pdb
+c:\users\admin\documents\visual studio 2015\Projects\OnitTask_4\OnitTask_4\obj\Debug\OnitTask_4.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\OnitTask_4\OnitTask_4\obj\Debug\OnitTask_4.exe
+c:\users\admin\documents\visual studio 2015\Projects\OnitTask_4\OnitTask_4\obj\Debug\OnitTask_4.pdb
